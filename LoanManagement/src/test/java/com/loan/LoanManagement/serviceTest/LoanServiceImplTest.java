@@ -41,9 +41,7 @@ public class LoanServiceImplTest {
 
 	@BeforeEach
 	void setup() {
-		/*
-		 * MockitoAnnotations.initMocks(this);
-		 */
+		
 		loanDetails = new LoanDetails();
 
 		loanDetails.setLoanNumber((long) 1);

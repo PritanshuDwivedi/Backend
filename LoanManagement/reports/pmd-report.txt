@@ -1,0 +1,882 @@
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:9:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/LoanManagementApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/SwaggerConfig.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authorization" appears 4 times in this file; the first occurrence is on line 28
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authorization" appears 4 times in this file; the first occurrence is on line 28
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loan' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loan' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loans' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loans' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loan1' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loan1' could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/controller/LoanController.java:50:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/InvalidSessionException.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'throwable' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/exception/ResourceNotFoundException.java:14:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'throwable' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/AuthResponse.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:42:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:42:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:50:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:50:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:54:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:54:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:54:	LongVariable:	LongVariable: Avoid excessively long variable names like loanManagementFees
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:54:	LongVariable:	LongVariable: Avoid excessively long variable names like loanManagementFees
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:58:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:58:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:62:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:62:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:66:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:66:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:70:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:70:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:74:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:74:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:78:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/model/LoanDetails.java:78:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:2:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:2:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'verifyToken': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/proxy/AuthProxy.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'verifyToken': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/repository/LoanRepo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/repository/LoanRepo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/repository/LoanRepo.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/repository/LoanRepo.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/service/LoanService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/service/LoanService.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getCurrentData': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:8:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getCurrentData': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateLoan': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateLoan': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteLoan': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteLoan': the method is declared in an interface type
+src/main/java/com/loan/LoanManagement/service/LoanService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/service/LoanService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:21:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:31:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:31:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authroization Error: User Not Authorized" appears 4 times in this file; the first occurrence is on line 32
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authroization Error: User Not Authorized" appears 4 times in this file; the first occurrence is on line 32
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Invalid Session" appears 4 times in this file; the first occurrence is on line 33
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Invalid Session" appears 4 times in this file; the first occurrence is on line 33
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:45:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanUpdate' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanUpdate' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:53:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:53:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:54:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:55:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:59:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:59:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:72:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanDb' could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'loan' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/loan/LoanManagement/serviceImpl/LoanServiceImpl.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the username field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the username field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the password field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the password field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	FieldNamingConventions:	FieldNamingConventions: The constant name 'LoanBASEURL' doesn't match '[A-Z][A-Z_0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	FieldNamingConventions:	FieldNamingConventions: The constant name 'LoanBASEURL' doesn't match '[A-Z][A-Z_0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'LoanBASEURL' is not all capitals.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:21:	VariableNamingConventions:	VariableNamingConventions: Variables that are final and static should be all capitals, 'LoanBASEURL' is not all capitals.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the request field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the request field if you want a default access modifier
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:23:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:28:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_is_logged_in_and_authorized' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:28:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_is_logged_in_and_authorized' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Content-Type" appears 6 times in this file; the first occurrence is on line 32
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Content-Type" appears 6 times in this file; the first occurrence is on line 32
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "application/json" appears 6 times in this file; the first occurrence is on line 32
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:32:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "application/json" appears 6 times in this file; the first occurrence is on line 32
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'jsonString' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'jsonString' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:38:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:40:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:40:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:41:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:41:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:45:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'database_has_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:45:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'database_has_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authorization" appears 5 times in this file; the first occurrence is on line 50
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Authorization" appears 5 times in this file; the first occurrence is on line 50
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Bearer " appears 5 times in this file; the first occurrence is on line 50
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Bearer " appears 5 times in this file; the first occurrence is on line 50
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:50:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:52:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:59:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:59:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:66:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:74:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:74:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:74:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:74:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:87:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:87:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:87:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number_to_delete_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:87:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number_to_delete_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:91:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:91:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:99:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:99:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:99:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number_and_update_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:99:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'user_enters_loan_number_and_update_loan_details' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:104:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:104:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:104:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:104:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:114:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:114:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:114:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'response_status_ok_returned' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberStepDefinition/MyStepDefinitions.java:114:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'response_status_ok_returned' doesn't match '[a-z][a-zA-Z0-9]*'
+src/test/java/CucumberTestRunner/TestRunner.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/CucumberTestRunner/TestRunner.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/CucumberTestRunner/TestRunner.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/CucumberTestRunner/TestRunner.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/CucumberTestRunner/TestRunner.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/CucumberTestRunner/TestRunner.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:9:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:12:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:12:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'args' could be declared final
+src/test/java/com/loan/LoanManagement/LoanManagementApplicationTests.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'args' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:26:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:26:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:28:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:28:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanController field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanController field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:31:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:31:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanRepo field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanRepo field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:34:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:34:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanService field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanService field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:35:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:37:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:37:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:40:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:40:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:43:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:43:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authProxy field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authProxy field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:44:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	SingularField:	SingularField: Perhaps 'mockMvc' could be replaced by a local variable.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	SingularField:	SingularField: Perhaps 'mockMvc' could be replaced by a local variable.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'mockMvc'.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:46:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'mockMvc'.
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:49:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:49:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:59:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:59:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:70:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getCurrentDataTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:70:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getCurrentDataTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:74:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 11 times in this file; the first occurrence is on line 74
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:74:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 11 times in this file; the first occurrence is on line 74
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:74:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:74:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:81:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:81:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:81:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:81:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:85:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:85:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:87:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:87:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:87:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:87:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:92:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:92:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:95:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:95:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:96:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:96:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:98:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:98:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:98:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:98:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:103:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:103:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:106:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:107:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:107:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:109:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:109:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loanCheck' could be declared final
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:111:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:111:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:111:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/controller/LoanControllerTest.java:111:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:19:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:19:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:22:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 4 times in this file; the first occurrence is on line 22
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:22:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 4 times in this file; the first occurrence is on line 22
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:26:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:26:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:27:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:27:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:28:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:28:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:32:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:32:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:34:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:34:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:35:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/AuthResponseTest.java:35:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:21:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:21:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:27:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:27:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:36:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:36:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:38:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:38:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:39:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:39:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:40:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:40:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:41:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:41:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:41:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:41:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:42:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:42:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:43:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:43:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:44:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:44:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:45:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:45:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:46:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:46:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:47:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:47:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:48:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:48:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:53:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:53:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:56:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:56:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:58:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:58:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:58:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/modelTest/LoanDetailsTest.java:58:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:25:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:25:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanServiceImpl field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanServiceImpl field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanRepo field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanRepo field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loanDetails field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:39:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:39:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:52:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:52:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:63:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:67:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 23 times in this file; the first occurrence is on line 67
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:67:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 23 times in this file; the first occurrence is on line 67
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:69:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:70:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:70:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:72:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:72:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:73:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:73:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:73:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:74:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:74:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:74:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:74:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:75:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:75:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:76:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:76:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:76:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:77:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:78:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:78:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:78:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:79:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:79:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:80:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:80:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:80:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:80:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:81:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:81:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:82:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:82:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:82:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:82:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:83:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:83:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:84:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:84:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:88:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:88:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:88:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdExceptionTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:88:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdExceptionTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:91:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:91:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '93'-'95').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '93'-'95').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:93:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:98:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:98:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:98:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdInvalidSessionExceptionTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:98:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByIdInvalidSessionExceptionTest' should not return void linguistically
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:101:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:101:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '103'-'105').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '103'-'105').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:103:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:108:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:108:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:108:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:108:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:112:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:112:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:114:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:114:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:115:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:116:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:116:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:116:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:116:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:117:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:117:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:117:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:117:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:118:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:118:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:118:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:119:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:119:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:119:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:119:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:120:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:120:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:120:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:120:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:121:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12345 should separate every third digit with an underscore
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:122:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:122:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:122:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:122:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:123:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:123:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:123:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:123:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:124:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:124:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:124:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:124:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:125:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:125:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:125:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:125:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:126:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:126:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:126:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:126:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:127:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:127:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:127:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:127:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:128:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:128:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:128:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:128:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:133:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:133:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:136:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:136:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:141:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:141:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:145:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:145:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:147:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:147:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:149:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:149:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:153:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:153:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:156:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:156:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '157'-'159').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '157'-'159').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:157:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:162:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:162:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:165:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:165:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '166'-'168').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'id' (lines '166'-'168').
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:166:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:171:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:171:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:175:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:175:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:177:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:177:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:181:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'updatedDetails' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:181:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'updatedDetails' could be declared final
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:182:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:182:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:187:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:187:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:190:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:190:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:195:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:195:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:198:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/loan/LoanManagement/serviceTest/LoanServiceImplTest.java:198:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)

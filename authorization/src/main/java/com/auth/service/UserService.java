@@ -28,7 +28,7 @@ public class UserService {
 		UserEntity entity = this.userservice.findByUsernameAndPassword(user.getUsername(), user.getPassword());
 		if (entity == null) {
 			log.debug("Unsucessfull login- " + user.getUsername());
-			throw new UserNotFoundException(" Please check youe credentials.");
+			throw new UserNotFoundException(" Please check your credentials.");
 		}
 		UserDetails userDetails = this.custDetailService.loadUserByUsername(user.getUsername());
 		String token = jwtutil.generateToken(userDetails);
