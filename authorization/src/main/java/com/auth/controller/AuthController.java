@@ -20,7 +20,7 @@ import lombok.extern.slf4j.Slf4j;
 
 /* This is the Controller Class for Authorization MicroService */
 @Slf4j
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "*")
 @RestController
 public class AuthController {
 
